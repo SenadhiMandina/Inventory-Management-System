@@ -109,12 +109,17 @@ src
 
 ## Screenshots
 
-Add screenshots of:
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-- Dashboard page
-- Products page
-- Categories page
-- Stock history page
+### Products
+![Products](screenshots/products.png)
+
+### Categories
+![Categories](screenshots/categories.png)
+
+### Stock History
+![Stock History](screenshots/history.png)
 
 ## Design Approach
 
