@@ -1,5 +1,16 @@
 # Stockpile - Inventory Management System
 
+## Live Demo
+
+The application has been deployed and is available online:
+
+🔗 **Live Application:**  
+https://inventory-management-system-opal-psi.vercel.app/
+
+Users can access the hosted version to explore all implemented features without installing the project locally.
+
+---
+
 ## Project Overview
 
 Stockpile is a frontend Inventory Management System built to help users manage products, categories and stock levels efficiently.
